@@ -16,3 +16,13 @@ Each file contains the solution along with notes on approach, time/space complex
 ## Language
 
 Python 3
+
+## Description
+a: easy to figure out approach, easy to finish code  30d
+b: easy to figure out approach, tiny bug or barrier on finishing code  21d
+c: approach not clear 7d
+d: no idea 3d
+
+|ID          |Name                         |Data Structure        |Tecnique      |Difficulty|Status |Date      |Hint |
+|------------|-----------------------------|----------------------|--------------|----------|-------|----------|-----|
+|leetcode283 |movin zeros          |-                       |two pointers        |easy|d   |06-15-2026|     
