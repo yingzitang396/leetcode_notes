@@ -25,4 +25,5 @@ d: no idea 3d
 
 |ID          |Name                         |Data Structure        |Tecnique      |Difficulty|Status |Date      |Hint |
 |------------|-----------------------------|----------------------|--------------|----------|-------|----------|-----|
-|leetcode283 |movin zeros          |-                       |two pointers        |easy|d   |06-15-2026|     
+|leetcode283 |         moving zeros        |                      |two pointers  | easy     |  d    |06-15-2026|     |
+|leetcode429 |N-ray tree Level Order Traversal|  Queue            |two pointers  | med      |  d    |07-01-2026| BFS |
