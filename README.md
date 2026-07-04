@@ -26,4 +26,5 @@ d: no idea 3d
 |ID          |Name                         |Data Structure        |Tecnique      |Difficulty|Status |Date      |Hint |
 |------------|-----------------------------|----------------------|--------------|----------|-------|----------|-----|
 |leetcode283 |         moving zeros        |                      |two pointers  | easy     |  d    |06-15-2026|     |
-|leetcode429 |N-ray tree Level Order Traversal|  Queue            |two pointers  | med      |  d    |07-01-2026| BFS |
+|leetcode429 |N-ray tree Level Order Traversal|  Queue            |bfs           | med      |  d    |07-01-2026| BFS |
+|leetcode1137|N-th Tribonacci number       |  list = [0] * 数位    | dp           | easy     |  d    |07-03-2026| dp  |
