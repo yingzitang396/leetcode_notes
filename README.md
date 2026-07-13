@@ -36,3 +36,4 @@ d: no idea 3d
 |leetcode174  |   Dungeon  Games          |  dp               |dp            | Hard   |  d        |07-08-2026|  dp   |
 |leetcode198  |   House robber          |  dp               |dp                | Med  |  d        |07-08-2026|  dp   |
 |leetcode740  |   delete and earn          |  dp               |dp                | Med  |  d        |07-12-2026| dp |
+|leetcode256/ lcr 91  |   paint the house |  dp               |dp                | Med  |  d         |07-12-2026| dp |
