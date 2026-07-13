@@ -28,3 +28,11 @@ d: no idea 3d
 |leetcode283 |         moving zeros        |                      |two pointers  | easy     |  d    |06-15-2026|     |
 |leetcode429 |N-ray tree Level Order Traversal|  Queue            |bfs           | med      |  d    |07-01-2026| BFS |
 |leetcode1137|N-th Tribonacci number       |  list = [0] * 数位    | dp           | easy     |  d    |07-03-2026| dp  |
+|leetcode62  |Unique paths                 |  dp = ([0] * n(列) for_ in range(m行))| dp |med |  d    |07-05-2026| dp  |
+|leetcode1137|N-th Tribonacci number       |  list = [0] * 数位    | dp           | easy     |  d    |07-03-2026| dp  |
+|leetcode931 |minimum falling path   |dp = [[float('inf')] * (n+2) for _ in range(m)]| dp| med |  d  |07-05-2026|  dp|
+|leetcode63  |      unique path II         |                      |dp            | Med    |  d    |07-05-2026|  dp   |
+|leetcode91  |      Decoding ways         |                       |dp            | Med    |  d    |07-04-2026|  dp   |
+|leetcode174  |   Dungeon  Games          |  dp               |dp            | Hard   |  d        |07-08-2026|  dp   |
+|leetcode198  |   House robber          |  dp               |dp                | Med  |  d        |07-08-2026|  dp   |
+|leetcode740  |   delete and earn          |  dp               |dp                | Med  |  d        |07-12-2026| dp |
