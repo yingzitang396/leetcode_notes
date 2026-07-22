@@ -39,4 +39,6 @@ d: no idea 3d
 |leetcode256/ lcr 91  |   paint the house |  dp               |dp                | Med  |  d         |07-12-2026| dp |
 |leetcode309  | Best time to buy and sell |  dp               |dp                | Med  |  d         |07-19-2026| dp |
 |leetcode714  |Best time to buy and sell with transaction fee |  dp |dp          | Med  |  d         |07-19-2026| dp |
+|leetcode123  |Best time to buy and sell III |  dp                 |dp          | Hard  |  d         |07-21-2026| dp |
+
 
