@@ -25,12 +25,12 @@ d: no idea 3d
 
 |ID          |Name                         |Data Structure        |Tecnique      |Difficulty|Status |Date      |Hint |
 |------------|-----------------------------|----------------------|--------------|----------|-------|----------|-----|
-|leetcode283 |         moving zeros        |                      |two pointers  | easy     |  d    |06-15-2026|     |
-|leetcode429 |N-ray tree Level Order Traversal|  Queue            |bfs           | med      |  d    |07-01-2026| BFS |
-|leetcode1137|N-th Tribonacci number       |  list = [0] * 数位    | dp           | easy     |  d    |07-03-2026| dp  |
-|leetcode62  |Unique paths                 |  dp = ([0] * n(列) for_ in range(m行))| dp |med |  d    |07-05-2026| dp  |
-|leetcode1137|N-th Tribonacci number       |  list = [0] * 数位    | dp           | easy     |  d    |07-03-2026| dp  |
-|leetcode931 |minimum falling path   |dp = [[float('inf')] * (n+2) for _ in range(m)]| dp| med |  d  |07-05-2026|  dp|
+|leetcode283 |         moving zeros        |                      |two pointers  | Easy     |  d    |06-15-2026|     |
+|leetcode429 |N-ray tree Level Order Traversal|  Queue            |bfs           | Med      |  d    |07-01-2026| BFS |
+|leetcode1137|N-th Tribonacci number       |  list = [0] * 数位    | dp           | Easy     |  d    |07-03-2026| dp  |
+|leetcode62  |Unique paths                 |  dp = ([0] * n(列) for_ in range(m行))| dp |Med |  d    |07-05-2026| dp  |
+|leetcode1137|N-th Tribonacci number       |  list = [0] * 数位    | dp           | Easy     |  d    |07-03-2026| dp  |
+|leetcode931 |minimum falling path   |dp = [[float('inf')] * (n+2) for _ in range(m)]| dp| Med |  d  |07-05-2026|  dp|
 |leetcode63  |      unique path II         |                      |dp            | Med    |  d    |07-05-2026|  dp   |
 |leetcode91  |      Decoding ways         |                       |dp            | Med    |  d    |07-04-2026|  dp   |
 |leetcode174  |   Dungeon  Games          |  dp               |dp            | Hard   |  d        |07-08-2026|  dp   |
@@ -40,5 +40,8 @@ d: no idea 3d
 |leetcode309  | Best time to buy and sell |  dp               |dp                | Med  |  d         |07-19-2026| dp |
 |leetcode714  |Best time to buy and sell with transaction fee |  dp |dp          | Med  |  d         |07-19-2026| dp |
 |leetcode123  |Best time to buy and sell III |  dp                 |dp          | Hard  |  d         |07-21-2026| dp |
+|leetcode53   |  Maximun sum                 |  dp                 |dp          | Med   |  d         |07-23-2026| dp |
+|leetcode918  |Maximum sum of circular subarrays|  dp                |dp          | Med |  d         |07-23-2026| dp |
+|leetcode152  |Maximum product subarray|  dp                |dp          | Med          |  d         |07-23-2026| dp |
 
 
