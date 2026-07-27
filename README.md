@@ -43,5 +43,9 @@ d: no idea 3d
 |leetcode53   |  Maximun sum                 |  dp                 |dp          | Med   |  d         |07-23-2026| dp |
 |leetcode918  |Maximum sum of circular subarrays|  dp                |dp          | Med |  d         |07-23-2026| dp |
 |leetcode152  |Maximum product subarray|  dp                |dp          | Med          |  d         |07-23-2026| dp |
+|leetcode139  |Words break             |  dp                |dp          | Med          |  d         |07-24-2026| dp |
+|leetcode429  |N-ary Tree Level Order Traversal|  BFS       |BFS         | Med          |  d         |07-26-2026| BFS|
+|leetcode103  |Binary Tree zigzag Level Order Traversal|  BFS |BFS       | Med          |  d         |07-26-2026| BFS|
+
 
 
