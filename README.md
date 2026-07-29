@@ -46,6 +46,10 @@ d: no idea 3d
 |leetcode139  |Words break             |  dp                |dp          | Med          |  d         |07-24-2026| dp |
 |leetcode429  |N-ary Tree Level Order Traversal|  BFS       |BFS         | Med          |  d         |07-26-2026| BFS|
 |leetcode103  |Binary Tree zigzag Level Order Traversal|  BFS |BFS       | Med          |  d         |07-26-2026| BFS|
+|leetcode662  |Maximum width of Binary tree            |  BFS |BFS       | Med          |  d         |07-26-2026| BFS|
+|leetcode662  |Binary tree Right Side View           |  BFS |BFS         | Med          |  c         |07-28-2026| BFS|
+|leetcode515  |Find largest value in each tree row     |  BFS |BFS       | Med          |  b         |07-28-2026| BFS|
+
 
 
 
