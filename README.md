@@ -49,6 +49,10 @@ d: no idea 3d
 |leetcode662  |Maximum width of Binary tree            |  BFS |BFS       | Med          |  d         |07-26-2026| BFS|
 |leetcode662  |Binary tree Right Side View           |  BFS |BFS         | Med          |  c         |07-28-2026| BFS|
 |leetcode515  |Find largest value in each tree row     |  BFS |BFS       | Med          |  b         |07-28-2026| BFS|
+|leetcode695  |Max area of the island                   |  BFS |BFS       | Med          |  d         |08-03-2026| BFS|
+|leetcode200  |Number of islands                      |  BFS |BFS       | Med          |  d           |08-01-2026| BFS|
+|leetcode130  |surrounded regions                      |  BFS |BFS       | Med          |  d         |08-03-2026| BFS|
+
 
 
 
