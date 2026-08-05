@@ -52,6 +52,10 @@ d: no idea 3d
 |leetcode695  |Max area of the island                   |  BFS |BFS       | Med          |  d         |08-03-2026| BFS|
 |leetcode200  |Number of islands                      |  BFS |BFS       | Med          |  d           |08-01-2026| BFS|
 |leetcode130  |surrounded regions                      |  BFS |BFS       | Med          |  d         |08-03-2026| BFS|
+|leetcode433  |Minimum Genetic Mutation      |  BFS shortest path  |BFS       | Med     |  d         |08-04-2026| BFS|
+|leetcode1926  |Nearest exit from entrance in maze     | BFS shortest path|BFS   | Med  |  d         |08-04-2026| BFS|
+
+
 
 
 
