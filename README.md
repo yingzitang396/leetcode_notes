@@ -50,10 +50,18 @@ d: no idea 3d
 |leetcode662  |Binary tree Right Side View           |  BFS |BFS         | Med          |  c         |07-28-2026| BFS|
 |leetcode515  |Find largest value in each tree row     |  BFS |BFS       | Med          |  b         |07-28-2026| BFS|
 |leetcode695  |Max area of the island                   |  BFS |BFS       | Med          |  d         |08-03-2026| BFS|
-|leetcode200  |Number of islands                      |  BFS |BFS       | Med          |  d           |08-01-2026| BFS|
+|leetcode200  |Number of islands                      |  BFS |BFS       | Med            |  d         |08-01-2026| BFS|
 |leetcode130  |surrounded regions                      |  BFS |BFS       | Med          |  d         |08-03-2026| BFS|
 |leetcode433  |Minimum Genetic Mutation      |  BFS shortest path  |BFS       | Med     |  d         |08-04-2026| BFS|
-|leetcode1926  |Nearest exit from entrance in maze     | BFS shortest path|BFS   | Med  |  d         |08-04-2026| BFS|
+|leetcode1926 |Nearest exit from entrance in maze     | BFS shortest path|BFS   | Med  |  d         |08-04-2026| BFS|
+|leetcode127  |Word Ladder        | BFS                                  |BFS   | Hard  |  d         |08-05-2026| BFS|
+|leetcode675  |Cut off trees for golf event        | BFS                 |BFS   | Hard  |  d         |08-05-2026| BFS|
+|leetcode542  |01 Matrix        | BFS 多源最短路径                        |BFS   | Med  |  d         |08-06-2026| BFS|
+|leetcode1020  |Number of enclaves     | BFS 多源最短路径                 |BFS   | Med  |  d         |08-06-2026| BFS|
+|leetcode1765  |Maps of highest peak     | BFS 多源最短路径             |BFS   | Med  |  d         |08-06-2026| BFS|
+|leetcode1162  |As far from land as possible    | BFS 多源最短路径             |BFS   | Med  |  d         |08-06-2026| BFS|
+
+
 
 
 
