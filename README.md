@@ -60,6 +60,22 @@ d: no idea 3d
 |leetcode1020  |Number of enclaves     | BFS 多源最短路径                 |BFS   | Med  |  d         |08-06-2026| BFS|
 |leetcode1765  |Maps of highest peak     | BFS 多源最短路径             |BFS   | Med  |  d         |08-06-2026| BFS|
 |leetcode1162  |As far from land as possible    | BFS 多源最短路径             |BFS   | Med  |  d         |08-06-2026| BFS|
+|leetcode中0806汉诺塔  | 汉诺塔       |   dfs                 |DFS   | Easy  |  c    |08-17-2026| DFS|
+|leetcode50  |   Pow(x, n)              | 递归                     |DFS   | Med  |  d         |08-14-2026| DFS|
+|leetcode2331  | Evaluate Boolean Binary Tree       | DFS                     |DFS   | Easy  |  d         |08-16-2026| DFS|
+|leetcode100  | Same Tree       | Binary tree  dfs                 |DFS   | Easy  |  c        |08-16-2026| DFS|
+|leetcode104  | Maximum depth of binary Tree       | Binary tree  dfs                 |DFS   | Easy  |  c    |08-16-2026| DFS|
+|leetcode226  | Invert binary Tree       | Binary tree  dfs                 |DFS   | Easy  |  c    |08-16-2026| DFS|
+|leetcode110  | Balanced binary Tree       | Binary tree  dfs                 |DFS   | Easy  |  c    |08-17-2026| DFS|
+|leetcode572  | Subtree of another tree      | Binary tree  dfs                 |DFS   | Easy  |  c    |08-17-2026| DFS|
+|leetcode129  | sum root to leaf number      | Binary tree  dfs                 |DFS   | Med  |  c    |08-26-2026| DFS|
+|leetcode814 | Binary tree pruning      | Binary tree  dfs                 |DFS   | Med  |  c    |08-27-2026| DFS|
+|leetcode98 | Valid Binary Search Tree      | Binary tree  dfs                 |DFS   | Med  |  c    |08-27-2026| DFS|
+|leetcode230 | Kth Smallest  in a Binary Tree      | Binary tree  dfs                 |DFS   | Med  |  c    |09-01-2026| DFS|
+|leetcode257 | Binary Tree Path     | Binary tree  dfs                 |DFS   | Easy  |  c    |09-03-2026| DFS|
+|leetcode169 | Majority Element    | Dictionary and Boory 投票O(1)          |Hashmap   | Easy  |  b    |10-29-2026| hashmap|
+|leetcode206 | Reverse Linked list   | dummy哑节点            |Linkedlist  | Easy  |  b    |10-30-2026| linkedlist|
+|leetcode86 | Partition List    | 头插尾插dummy节点                |LinkedList   | Medium  |  c   |11-01-2026| LInkedlist|
 
 
 
