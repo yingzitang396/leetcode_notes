@@ -76,6 +76,11 @@ d: no idea 3d
 |leetcode169 | Majority Element    | Dictionary and Boory 投票O(1)          |Hashmap   | Easy  |  b    |10-29-2026| hashmap|
 |leetcode206 | Reverse Linked list   | dummy哑节点            |Linkedlist  | Easy  |  b    |10-30-2026| linkedlist|
 |leetcode86 | Partition List    | 头插尾插dummy节点                |LinkedList   | Medium  |  c   |11-01-2026| LInkedlist|
+|leetcode450 | Delete node in BST   | Find node and delete    |BST   | Medium  |  D   |11-17-2026| BST|
+|leetcode752 | Open the lock    | BST 最短路径               |BST   | Medium  |  c   |11-15-2026| BST|
+
+
+
 
 
 
